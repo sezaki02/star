@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>BACK TO THE HYAKKEI</title>
-    <link>https://65bf3ddeccf3202ad0db2a94--lucky-sable-e3df43.netlify.app/</link>
-    <description>Recent content on BACK TO THE HYAKKEI</description>
+    <title>Posts on BACK TO THE HYAKKEI</title>
+    <link>https://65bf3ddeccf3202ad0db2a94--lucky-sable-e3df43.netlify.app/posts/</link>
+    <description>Recent content in Posts on BACK TO THE HYAKKEI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 19:33:39 +0900</lastBuildDate>
-    <atom:link href="https://65bf3ddeccf3202ad0db2a94--lucky-sable-e3df43.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://65bf3ddeccf3202ad0db2a94--lucky-sable-e3df43.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>躓き、連鎖、波及し悪化するもの</title>
       <link>https://65bf3ddeccf3202ad0db2a94--lucky-sable-e3df43.netlify.app/posts/240204/</link>
