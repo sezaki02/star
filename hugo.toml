@@ -2,3 +2,12 @@ baseURL = 'https://lucky-sable-e3df43.netlify.app'
 languageCode = 'en-us'
 title = 'BACK TO THE HYAKKEI'
 theme = 'PaperMod'
+
+
+[params.homeInfoParams]
+Title = "Now playing"
+Content = "ほかより少し現在地付近"
+
+[[params.socialIcons]]
+name = "steam"
+url = "<https://steamcommunity.com/profiles/76561199244922998/>"
