@@ -10,8 +10,8 @@ Content = "ほかより少し現在地付近"
 
 [[params.socialIcons]]
 name = "instagram"
-url = "<https://www.instagram.com/nooo___de/>"
+url = "https://www.instagram.com/nooo___de/"
 
 [[params.socialIcons]]
 name = "steam"
-url = "<https://steamcommunity.com/profiles/76561199244922998/>"
+url = "https://steamcommunity.com/profiles/76561199244922998/"
