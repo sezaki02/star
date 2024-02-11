@@ -15,3 +15,9 @@ url = "https://www.instagram.com/nooo___de/"
 [[params.socialIcons]]
 name = "steam"
 url = "https://steamcommunity.com/profiles/76561199244922998/"
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/archives/"
+weight = 20
