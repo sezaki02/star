@@ -23,7 +23,7 @@ url = "/archives/"
 weight = 20
 
 [params.assets]
-favicon = "/favicon.ico"
-favicon16x16 = "/favicon-16x16.png"
-favicon32x32 = "/favicon-32x32.png"
-apple_touch_icon = "/apple-touch-icon.png"
+favicon = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon.ico"
+favicon16x16 = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon-16x16.png"
+favicon32x32 = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon-32x32.png"
+apple_touch_icon = "https://raw.githubusercontent.com/sezaki02/star/main/static/apple-touch-icon.png"
